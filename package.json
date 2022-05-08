@@ -1,15 +1,19 @@
 {
-  "dependencies": {
-    "express": "^4.18.1"
-  },
-  "name": "connectherokudemo",
+  "name": "tempherokuconnect",
   "version": "1.0.0",
+  "description": "",
   "main": "myTest.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node myTest.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelGindin/TempHerokuConnect.git"
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/MichaelGindin/TempHerokuConnect/issues"
+  },
+  "homepage": "https://github.com/MichaelGindin/TempHerokuConnect#readme"
 }
